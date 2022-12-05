@@ -7,7 +7,7 @@ public class q19
         for (int a = 1; a <= 5; a++) {
             int b = a + 1;
             int cal = (int) Math.pow (a, b);
-            System.out.println(a + " " + b + " " + cal);
+            System.out.println(a + " " + b + " " + cal);jfyf
         }
     }
     }
