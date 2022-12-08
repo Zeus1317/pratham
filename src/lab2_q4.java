@@ -11,7 +11,8 @@ public class lab2_q4
             n=n/10;
 
         }
-        System.out.println(s);
+        System.out.println("The sum of the digit is");
+        System.out.print(s);
     }
 
 
