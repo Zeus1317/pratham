@@ -12,7 +12,7 @@ public class lab2_q4
 
         }
         System.out.println("The sum of the digit is");
-        System.out.print(s);
+        System.out.println(s);
     }
 
 

@@ -1,9 +1,5 @@
 import java.util.*;
 public class
-
-
-
-
 lab2_q3 {
     public static void main(String[] args) {
     double bs,hra,da,gs;
